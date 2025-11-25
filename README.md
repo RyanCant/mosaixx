@@ -2,35 +2,9 @@
 
 Aerial imagery analysis, processing, and presentation scripts.
 
-## Important Notice: March 5, 2022
-
-I love the University of Minnesota, but my funding ran out and we weren't able
-to get anything new lined up in time.  So March 18 is my last day at the
-University of Minnesota, Dept. of Aerospace Engineering, UAV lab. :-(
-
-At the same time I'm super excited to be transition to a new position at Cirrus
-Aircraft in Duluth.  This will change many things, including my time available
-and my focus relative to working on this project. For a couple years this code
-was integral to my daily work, and that probably will no longer be true once I
-transition to my new position.
-
-My hope is to keep this project going long term, to be available (within reason)
-to answer questions, and to guide people getting up to speed for the first time.
-I am sincerly hopeful I can continue to improve and add features as time
-permits.
-
 ## Screen shots
+Comming soo!
 
-A mosaic of 2812 images from a Phantom 4 Pro v2 mission
-![map](images/bates.jpg "2812 Images Stitched Together")
-
-A 3d surface rendering of the same area
-![map](images/bates-3d-skin.jpg "3D surface/skin")
-
-A zoom in showing all the original detail and oblique perspective from the
-original imagery because the mapping tool simply draws the original images in a
-big pile all sized, oriented, stretched, and aligned perfectly.
-![map](images/oriental-bittersweet.jpg "Advantage of maintaining oblique perspectives in final map")
 
 ## Brief Overview
 
@@ -55,10 +29,6 @@ systems in several distinct ways:
   well known commercial packages in terms of fitting more of your images
   together correctly into the final map.
 
-* All the code is licensed with the MIT open-source license and written in
-  python to be as open and accessible as possible.  We are developing this
-  project in a research lab and wish to be open and share the knowledge and
-  tools we develop.
 
 The project goals remain:
 
@@ -78,8 +48,6 @@ The project goals remain:
 
 ## Current and Recent Development Focus
 
-This is likely to be out of date faster than I can write it, but here are a few
-things I have been working recently.
 
 * Improving and streamlining the project structure layout.  Now an
   "ImageAnalysis" folder is added to each folder of raw images.
